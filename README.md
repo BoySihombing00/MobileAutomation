@@ -20,6 +20,10 @@ pada test ini sayang hanya menjalankan dua scenario yaitu positive dan negative
 - Positive, menginput username dan password yang benar, jika berhasil masuk akan memverify kata product
 - Negative, Menginput username dan password yang salah, jika gagal akan memverify alert error
 
+Command Line untuk running Project
+```
+npx wdio run wdio.conf.js
+```
 Dan hasil dari pengujian ini bisa di report dengan menjalankan command line
 ```
 npx allure serve allure-results
