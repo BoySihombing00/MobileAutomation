@@ -29,6 +29,7 @@ Dan hasil dari pengujian ini bisa di report dengan menjalankan command line
 npx allure serve allure-results
 ```
 
-Demikian penjelasan singkat project mobile testing
+Demikian Video singkat project mobile testing
+https://drive.google.com/file/d/1mOMU044Qix386Dhymt0FrVfPY3LMxQ8j/view?usp=sharing
 
 Terimakasih...
